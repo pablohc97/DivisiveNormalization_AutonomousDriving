@@ -33,6 +33,5 @@ volume = {173},
 pages = {64-71},
 year = {2023},
 issn = {0167-8655},
-doi = {https://doi.org/10.1016/j.patrec.2023.07.017},
-url = {https://www.sciencedirect.com/science/article/pii/S0167865523002209}}
+doi = {https://doi.org/10.1016/j.patrec.2023.07.017}}
 
