@@ -25,13 +25,13 @@ U-Net type models with/without Divisive Normalization layers trained in the orig
 
 ## Cite
 
-@misc{hernandez_divisive_normalization_segmentation,
-author = {Pablo Hernández-Cámara and Jorge Vila-Tomás and Valero Laparra and Jesús Malo},
-title = {Neural networks with divisive normalization for image segmentation},
-journal = {Pattern Recognition Letters},
-volume = {173},
-pages = {64-71},
-year = {2023},
-issn = {0167-8655},
+@misc{hernandez_divisive_normalization_segmentation,\
+author = {Pablo Hernández-Cámara and Jorge Vila-Tomás and Valero Laparra and Jesús Malo},\
+title = {Neural networks with divisive normalization for image segmentation},\
+journal = {Pattern Recognition Letters},\
+volume = {173},\
+pages = {64-71},\
+year = {2023},\
+issn = {0167-8655},\
 doi = {https://doi.org/10.1016/j.patrec.2023.07.017}}
 
