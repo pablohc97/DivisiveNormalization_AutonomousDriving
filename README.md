@@ -1,6 +1,6 @@
 # Neural networks with divisive normalization for image segmentation
 
-Official repository of the paper: [Neural networks with divisive normalization for image segmentation, Pattern Recognition Letters, 173](https://www.sciencedirect.com/science/article/pii/S0167865523002209).
+Official repository of the paper: [Neural networks with divisive normalization for image segmentation, Pattern Recognition Letters, 173, p 64-71](https://www.sciencedirect.com/science/article/pii/S0167865523002209).
 
 ## Introduction
 
